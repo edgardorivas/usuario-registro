@@ -1,0 +1,7 @@
+hola ante nada muchas gracias por leer mi codigo solo le queria decir que
+cuando lo abra se encontrara con 4 jpanel los cuales 2 de ellos se llaman sistemaprincipal o algo parecido 
+(me da flojera abrir y revisar) y el otro registro registro es el primero que van a ver ya que sistemeprincipal esta
+alejada del area dode se puede ver la interfaz solo tienes que ir a propiedades y colocar
+x y y aliniados para que se pueda ver y gracias por cierto mi intencion
+era que despues de registrarce se cambiaria el jpanel registro al jpanel de sistemaprincipal
+pero no lo pude hacer disculpen jajaja
